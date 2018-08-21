@@ -25,7 +25,7 @@ devices:
       abstraction:
         order: [os, type]
 
-  nxos:
+  sbx-n9kv-ao:
     alias: nxos
     os: nxos
     type: Nexus9000v
@@ -54,9 +54,9 @@ topology:
         link: flat
         type: ethernet
 
-  nxos:
+  sbx-n9kv-ao:
     interfaces:
       Ethernet1/1:
-        ipv4: 10.10.20.48
+        ipv4: 10.10.20.95
         link: flat
         type: ethernet
