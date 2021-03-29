@@ -57,7 +57,7 @@ pyats.tcl==4.1.1
 pyats.templates==4.1.0
 pyats.topology==4.1.2
 pyats.utils==4.1.4
-Pygments==2.2.0
+Pygments==2.7.4
 PyYAML==3.12
 requests==2.19.1
 robotframework==3.0.4
